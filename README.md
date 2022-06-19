@@ -36,7 +36,7 @@ The dataset is publicly available [here](https://isip.piconepress.com/projects/t
 
 
 #### Spectrograms fed to the Deep Learning networks 
-![Spectrograms](https://github.com/irfankhaan/DL-Models-for-Seizure-Detection-using-Spectrograms/blob/master/image-specgrams.png)
+![Spectrograms](https://github.com/irfankhaan/DL-Models-for-Seizure-Detection-using-Spectrograms/blob/master/image-spectrograms.png)
 
 #### 3D visualization of Spectrograms 
 ![3D Spectrogram](https://github.com/irfankhaan/DL-Models-for-Seizure-Detection-using-Spectrograms/blob/master/image-specgrams-3d.png)
