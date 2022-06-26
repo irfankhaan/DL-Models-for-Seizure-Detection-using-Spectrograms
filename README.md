@@ -40,3 +40,18 @@ The dataset is publicly available [here](https://isip.piconepress.com/projects/t
 
 #### 3D visualization of Spectrograms 
 ![3D Spectrogram](https://github.com/irfankhaan/DL-Models-for-Seizure-Detection-using-Spectrograms/blob/master/image-specgrams-3d.png)
+
+
+## Citation
+If you find this work useful, please cite
+
+```
+@INPROCEEDINGS{9800802,  
+    author={Khan, Mohd Maaz and Mabood Khan, Irfan and Farooq, Omar},  
+    booktitle={2022 10th International Symposium on Digital Forensics and Security (ISDFS)},   
+    title={Deep Learning based Lightweight Model for Seizure Detection using Spectrogram Images},   
+    year={2022},  
+    pages={1-6},  
+    doi={10.1109/ISDFS55398.2022.9800802}}
+}
+```
